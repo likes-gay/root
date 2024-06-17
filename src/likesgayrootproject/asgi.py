@@ -1,5 +1,5 @@
 """
-ASGI config for root project.
+ASGI config for likesgayrootproject project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
